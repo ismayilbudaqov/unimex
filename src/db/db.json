@@ -1,0 +1,130 @@
+{
+  "Arr": [
+    {
+      "quantity": 1,
+      "id": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1-8_360x.jpg?v=1609296594",
+      "name": "Soundless Speaker",
+      "endirim": "On sale from",
+      "price": "238.00",
+      "onsale": "ON SALE"
+    },
+    {
+      "quantity": 1,
+      "id": 2,
+      "image": "https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1-30_360x.jpg?v=1609342334",
+      "name": "Studio Chair",
+      "endirim": "from",
+      "price": "120.00"
+    },
+    {
+      "quantity": 1,
+      "id": 3,
+      "image": "https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1-9_360x.jpg?v=1609342211",
+      "name": "Bird Stool",
+      "endirim": "$147.52",
+      "price": "150.00",
+      "onsale": "ON SALE"
+    },
+    {
+      "quantity": 1,
+      "id": "4",
+      "image": "https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1-13_360x.jpg?v=1609296601",
+      "name": "Chipperfield w102",
+      "price": "126.06"
+    },
+    {
+      "quantity": 1,
+      "id": 5,
+      "image": "https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1-12_360x.jpg?v=1609296595",
+      "name": "Bottle Grinder",
+      "price": "141.51"
+    },
+    {
+      "quantity": 1,
+      "id": 6,
+      "image": "https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1-11_360x.jpg?v=1609296587",
+      "name": "Boro Wall Shelf",
+      "price": "172.07"
+    },
+    {
+      "quantity": 1,
+      "id": 7,
+      "image": "https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1-7_360x.jpg?v=1609296590",
+      "name": "Beer Foamer",
+      "price": "162.32"
+    },
+    {
+      "quantity": 1,
+      "id": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1-6_360x.jpg?v=1609296581",
+      "name": "Ballpoint",
+      "price": "133.12"
+    },
+    {
+      "quantity": 1,
+      "id": 9,
+      "image": "https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1-12_360x.jpg?v=1609296595",
+      "name": "BN0032 - Steel",
+      "price": "199.00"
+    },
+    {
+      "quantity": 1,
+      "id": 10,
+      "image": "https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1-12_360x.jpg?v=1609296595",
+      "name": "BN0032 - Steel",
+      "price": "199.00"
+    },
+    {
+      "quantity": 1,
+      "id": 11,
+      "image": "https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1-4_360x.jpg?v=1609296590",
+      "name": "BIT Side Table",
+      "price": "128.66"
+    },
+    {
+      "quantity": 1,
+      "id": 12,
+      "image": "https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1-3_360x.jpg?v=1609296578",
+      "image2": "https://cdn.shopify.com/s/files/1/0076/1708/5530/products/8-1_360x.jpg?v=1609296588",
+      "name": "Afteroom Barstool",
+      "price": "150.40"
+    },
+    {
+      "quantity": 1,
+      "id": 13,
+      "image": "https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1-1_360x.jpg?v=1609296578",
+      "name": "027-3502.00",
+      "price": "194.11"
+    },
+    {
+      "quantity": 1,
+      "id": 14,
+      "image": "https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1_7381dab9-909e-406a-9045-bca1086137bc_360x.jpg?v=1609296578",
+      "name": "01-B RG-B",
+      "price": "147.52"
+    },
+    {
+      "quantity": 1,
+      "id": 15,
+      "image": "https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1-31_360x.jpg?v=1618250122",
+      "name": "Ceramic Pot",
+      "onsale": "ON SALE"
+    },
+    {
+      "email": "ascsac",
+      "password": "ascs",
+      "id": 16
+    },
+    {
+      "email": "güsüsgüsüs",
+      "password": "ggaü",
+      "id": 17
+    },
+    {
+      "email": "güsüsgüsüs",
+      "password": "ggaü",
+      "id": 18
+    }
+  ]
+}
